@@ -36,6 +36,7 @@ No que diz respeito ao André programador, tenho experiência na realização de
   </div>
 <br><br>
 <div id="contatos">
+  dev.to pesquisar badges
   <a href="" target="_blank"><img src="" target="_blank" /></a>
   <a href="" target="_blank"><img src="" target="_blank" /></a>
   <a href="" target="_blank"><img src="" target="_blank" /></a>
