@@ -30,7 +30,7 @@ Minha formação é em Administração pela Universidade Federal de Lavras (UFLA
 No que diz respeito ao André programador, tenho experiência na realização de projetos de desenvolvimento web utilizando tecnologias como   JavaScript,  React, Redux HTML e CSS, desde aplicações simples até contribuições em projetos em grupo mais elaborados.
 </main>  
   <br><br>
-  <div id="tecnologias">
+  <div id="tecnologias"> Devicon site
     <img height="40" src="" />
     <img height="40" src="" />
   </div>
