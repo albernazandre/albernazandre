@@ -17,7 +17,7 @@
 
   Apaixonado por tecnologia, lógica e pelo Clube Atlético Mineiro.
 <br><br>
-<p align="right"><img src="[https://media0.giphy.com/media/QD13rmHFnu0AyayPXa/giphy.gif?cid=ecf05e47p0g983o7lw6tmwcrn2pn8bi1phieasgiy6cvoqqe&rid=giphy.gif&ct=g](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYzODIzYWExMjYwZGJjNjVlZjljZDgwZjYxYzZkNTFjYTVhNDU1NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SUp0EwiDUc28RfQLva/giphy.gif)" alt="meme pc" /></p>
+<p align="right"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYzODIzYWExMjYwZGJjNjVlZjljZDgwZjYxYzZkNTFjYTVhNDU1NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SUp0EwiDUc28RfQLva/giphy.gif" alt="meme pc" /></p>
 </div>
 <br><br>
 <main align="center">
