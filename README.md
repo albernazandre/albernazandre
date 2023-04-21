@@ -18,13 +18,13 @@
   Apaixonado por tecnologia, lógica e pelo Clube Atlético Mineiro.
 <br><br>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://media0.giphy.com/media/QD13rmHFnu0AyayPXa/giphy.gif?cid=ecf05e47p0g983o7lw6tmwcrn2pn8bi1phieasgiy6cvoqqe&rid=giphy.gif&ct=g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Refurbished-yes-notebook-pekne-SUp0EwiDUc28RfQLva">via GIPHY</a></p>
+
 </div>
 <br><br>
 <main align="center">
 Comecei a me interessar por tecnologia desde muito cedo, através de jogos de computar e consoles. Sempre tive curiosidade de saber como sites, jogos e todo tipo de aplicações eram criadas. Encontrei na programação a resposta para muitas destas perguntas e um pouco mais: uma paixão para a vida.
 <br><br>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QD13rmHFnu0AyayPXa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/WiredP-fury-kung-QD13rmHFnu0AyayPXa">via GIPHY</a></p>
+<p align="left"><img src="https://media0.giphy.com/media/QD13rmHFnu0AyayPXa/giphy.gif?cid=ecf05e47p0g983o7lw6tmwcrn2pn8bi1phieasgiy6cvoqqe&rid=giphy.gif&ct=g" alt="meme videogame" /></p>
 <br><br>
 Minha formação é em Administração pela Universidade Federal de Lavras (UFLA) e também tenho pós em Mercado Financeiro e de Capitais pela Universidade de São Paulo (USP). Fora do ambiente acadêmico acabei encontrando minha vocação, mas muito dos aprendizados nunca foram esquecidos e hoje posso dizer que tenho facilidade e amor por aprender graças à minha formação, não só acadêmica, mas da vida.
 <br><br>
