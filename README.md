@@ -22,9 +22,9 @@
 <br><br>
 <main align="center">
 Comecei a me interessar por tecnologia desde muito cedo, através de jogos de computar e consoles. Sempre tive curiosidade de saber como sites, jogos e todo tipo de aplicações eram criadas. Encontrei na programação a resposta para muitas destas perguntas e um pouco mais: uma paixão para a vida.
-<br><br>
-<p align="left"><img src="https://media0.giphy.com/media/QD13rmHFnu0AyayPXa/giphy.gif?cid=ecf05e47p0g983o7lw6tmwcrn2pn8bi1phieasgiy6cvoqqe&rid=giphy.gif&ct=g" alt="meme videogame" /></p>
 <br><br><br>
+<p align="left"><img src="https://media0.giphy.com/media/QD13rmHFnu0AyayPXa/giphy.gif?cid=ecf05e47p0g983o7lw6tmwcrn2pn8bi1phieasgiy6cvoqqe&rid=giphy.gif&ct=g" alt="meme videogame" /></p>
+<br><br>
 Minha formação é em Administração pela Universidade Federal de Lavras (UFLA) e também tenho pós em Mercado Financeiro e de Capitais pela Universidade de São Paulo (USP). Fora do ambiente acadêmico acabei encontrando minha vocação, mas muito dos aprendizados nunca foram esquecidos e hoje posso dizer que tenho facilidade e amor por aprender graças à minha formação, não só acadêmica, mas da vida.
 <br><br>
 No que diz respeito ao André programador, tenho experiência na realização de projetos de desenvolvimento web utilizando tecnologias como   JavaScript,  React, Redux HTML e CSS, desde aplicações simples até contribuições em projetos em grupo mais elaborados.
