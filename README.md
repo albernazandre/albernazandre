@@ -18,7 +18,7 @@
   Apaixonado por tecnologia, lógica e pelo Clube Atlético Mineiro.
 <br><br>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SUp0EwiDUc28RfQLva" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Refurbished-yes-notebook-pekne-SUp0EwiDUc28RfQLva">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="[https://giphy.com/embed/SUp0EwiDUc28RfQLva](https://media0.giphy.com/media/QD13rmHFnu0AyayPXa/giphy.gif?cid=ecf05e47p0g983o7lw6tmwcrn2pn8bi1phieasgiy6cvoqqe&rid=giphy.gif&ct=g)" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Refurbished-yes-notebook-pekne-SUp0EwiDUc28RfQLva">via GIPHY</a></p>
 </div>
 <br><br>
 <main align="center">
